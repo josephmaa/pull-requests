@@ -1,0 +1,2377 @@
+[
+  {
+    "sha": "acef07ee43404107eaaf45503b2436ea5ba7a61b",
+    "node_id": "C_kwDOEfTkwtoAKGFjZWYwN2VlNDM0MDQxMDdlYWFmNDU1MDNiMjQzNmVhNWJhN2E2MWI",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-11-06T21:54:12Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-11-06T21:54:12Z"
+      },
+      "message": "Merge branch 'master' of github.com:ldoshi/rome-wasnt-built-in-a-day",
+      "tree": {
+        "sha": "3950575f5be4343542110b4a8f84d817d8a0bb4e",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/3950575f5be4343542110b4a8f84d817d8a0bb4e"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/acef07ee43404107eaaf45503b2436ea5ba7a61b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/acef07ee43404107eaaf45503b2436ea5ba7a61b",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/acef07ee43404107eaaf45503b2436ea5ba7a61b",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/acef07ee43404107eaaf45503b2436ea5ba7a61b/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6267cedfa2bba2af8c3a43429ce40f96c617c18f",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/6267cedfa2bba2af8c3a43429ce40f96c617c18f",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/6267cedfa2bba2af8c3a43429ce40f96c617c18f"
+      },
+      {
+        "sha": "e718dc6ccf8664db90c9d7205c3232a415c5c72f",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e718dc6ccf8664db90c9d7205c3232a415c5c72f",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e718dc6ccf8664db90c9d7205c3232a415c5c72f"
+      }
+    ]
+  },
+  {
+    "sha": "6267cedfa2bba2af8c3a43429ce40f96c617c18f",
+    "node_id": "C_kwDOEfTkwtoAKDYyNjdjZWRmYTJiYmEyYWY4YzNhNDM0MjljZTQwZjk2YzYxN2MxOGY",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-11-06T21:52:55Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-11-06T21:52:55Z"
+      },
+      "message": "Ignore ~, #, and venv files.",
+      "tree": {
+        "sha": "e55481b9a7b7a459a0885991a49c576239dacd59",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/e55481b9a7b7a459a0885991a49c576239dacd59"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/6267cedfa2bba2af8c3a43429ce40f96c617c18f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/6267cedfa2bba2af8c3a43429ce40f96c617c18f",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/6267cedfa2bba2af8c3a43429ce40f96c617c18f",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/6267cedfa2bba2af8c3a43429ce40f96c617c18f/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/c2c195c9633f19fbee22c9ee8356340e9d9c18dc"
+      }
+    ]
+  },
+  {
+    "sha": "e718dc6ccf8664db90c9d7205c3232a415c5c72f",
+    "node_id": "C_kwDOEfTkwtoAKGU3MThkYzZjY2Y4NjY0ZGI5MGM5ZDcyMDVjMzIzMmE0MTVjNWM3MmY",
+    "commit": {
+      "author": {
+        "name": "Joseph Maa",
+        "email": "josephgmaa@berkeley.edu",
+        "date": "2022-10-29T01:01:42Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-10-29T01:01:42Z"
+      },
+      "message": "Separate debug_td_error flag in order to speed up test runs (#155)\n\n* Separate debug_td_error flag in order to speed up test runs\r\n\r\n* Remove unnecessary td error debugging in test\r\n\r\n* Update code to use old td error logging when debug flag is passed, but debug_td_error flag is not passed\r\n\r\n* Update test for td error",
+      "tree": {
+        "sha": "78b8231ee0e8934206fbf6e75dc286fdbbf8a2a6",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/78b8231ee0e8934206fbf6e75dc286fdbbf8a2a6"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/e718dc6ccf8664db90c9d7205c3232a415c5c72f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjXHt2CRBK7hj4Ov3rIwAAGLEIAGGKTA9Q2XW8z+izLNAPVshh\nYwp23UuwqoyHzpP9ghLkssYN9LGtsGB3KhJcD+nUvFaXHCKQLao0uvWaBesFzoSm\n+pTspey8NkuiZ0eIVf0hcPq5Gpgr2gVeJMbq8zCooLOEKIOPTzsLuWh375L7tyDv\nn8FWWwUzyGfP7NyymJ64O2xFYOSMMa1VLlYZ8btcxlZmJQf/Nyph2KEXbttPxVrq\nqspORQe/2nmGzFVXh8PyAtII+sCfKLiiwBU6RAOGplab7To0JQbz5jS2D4TZ2Nf7\nyDLjxf8ax7cuvnjuzDQibcbCzK4WTUyYDFp1pZODRJY5Gvr7dgV3HfDhgWtsd14=\n=yrGY\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 78b8231ee0e8934206fbf6e75dc286fdbbf8a2a6\nparent c2c195c9633f19fbee22c9ee8356340e9d9c18dc\nauthor Joseph Maa <josephgmaa@berkeley.edu> 1667005302 -0700\ncommitter GitHub <noreply@github.com> 1667005302 -0700\n\nSeparate debug_td_error flag in order to speed up test runs (#155)\n\n* Separate debug_td_error flag in order to speed up test runs\r\n\r\n* Remove unnecessary td error debugging in test\r\n\r\n* Update code to use old td error logging when debug flag is passed, but debug_td_error flag is not passed\r\n\r\n* Update test for td error"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e718dc6ccf8664db90c9d7205c3232a415c5c72f",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e718dc6ccf8664db90c9d7205c3232a415c5c72f",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e718dc6ccf8664db90c9d7205c3232a415c5c72f/comments",
+    "author": {
+      "login": "josephmaa",
+      "id": 37686936,
+      "node_id": "MDQ6VXNlcjM3Njg2OTM2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37686936?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/josephmaa",
+      "html_url": "https://github.com/josephmaa",
+      "followers_url": "https://api.github.com/users/josephmaa/followers",
+      "following_url": "https://api.github.com/users/josephmaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/josephmaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/josephmaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/josephmaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/josephmaa/orgs",
+      "repos_url": "https://api.github.com/users/josephmaa/repos",
+      "events_url": "https://api.github.com/users/josephmaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/josephmaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/c2c195c9633f19fbee22c9ee8356340e9d9c18dc"
+      }
+    ]
+  },
+  {
+    "sha": "c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+    "node_id": "C_kwDOEfTkwtoAKGMyYzE5NWM5NjMzZjE5ZmJlZTIyYzllZTgzNTYzNDBlOWQ5YzE4ZGM",
+    "commit": {
+      "author": {
+        "name": "Joseph Maa",
+        "email": "josephgmaa@berkeley.edu",
+        "date": "2022-10-11T05:16:38Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-10-11T05:16:38Z"
+      },
+      "message": "Add use of state action cache (#137)\n\n* Add use of state action cache when bridge builder is run in debug mode to help understand td errors better\r\n\r\n* Fix env issues and update goldens\r\n\r\n* Remove print statement\r\n\r\n* Fix issue with step returning numpy array, adding wrong type values to dataclass, and issues with goldens for td errors\r\n\r\n* Make suggested changes\r\n\r\n* Fix bug with state_id due to an extra nested list\r\n\r\n* Fix rebase conflict\r\n\r\n* Update td error test to reflect new functionality and add comment to refactor caching in builder trainer for td_error\r\n\r\n* Make suggested changes",
+      "tree": {
+        "sha": "985a897ddd7960390a7852d7fcb8717798d4db5e",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/985a897ddd7960390a7852d7fcb8717798d4db5e"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjRPw2CRBK7hj4Ov3rIwAAr04IAGilAbu2u75xMOk2V3eRBjG2\nbycfQat+OVMI2pmOrSxHhIQ3g+RMrUTRU0fDfVKMtYC+3m5S+iCW7sPAluGAZ6XO\nxRVxKZGcajTv23PjOFkgCIbkH2c3Q5c0ngTRIwB2HNP50iBBgyhlJ6ZgVOur6TSu\nLxjrsyu5dKgEcxoduEAKe0pXRxTOQ2EPiTOPuGMG8Ujy8zysAp6xHq/VpgHpz3Cl\nHjbA/V/r3zY/YsrM/BUERY2trA9Ve7ZIBSDiOtqAoKctX+rn9sqepMl2uOxtbp5v\n+5wZRGPP5aG+0qHRiUM27wwoay8GxfbVXzevFmvwQtji9SYOdY9AYCgMU6RgMdE=\n=hLpS\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 985a897ddd7960390a7852d7fcb8717798d4db5e\nparent 9dc7ca241b00e8b781039d45a05025ca57eb800e\nauthor Joseph Maa <josephgmaa@berkeley.edu> 1665465398 -0700\ncommitter GitHub <noreply@github.com> 1665465398 -0700\n\nAdd use of state action cache (#137)\n\n* Add use of state action cache when bridge builder is run in debug mode to help understand td errors better\r\n\r\n* Fix env issues and update goldens\r\n\r\n* Remove print statement\r\n\r\n* Fix issue with step returning numpy array, adding wrong type values to dataclass, and issues with goldens for td errors\r\n\r\n* Make suggested changes\r\n\r\n* Fix bug with state_id due to an extra nested list\r\n\r\n* Fix rebase conflict\r\n\r\n* Update td error test to reflect new functionality and add comment to refactor caching in builder trainer for td_error\r\n\r\n* Make suggested changes"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/c2c195c9633f19fbee22c9ee8356340e9d9c18dc",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c2c195c9633f19fbee22c9ee8356340e9d9c18dc/comments",
+    "author": {
+      "login": "josephmaa",
+      "id": 37686936,
+      "node_id": "MDQ6VXNlcjM3Njg2OTM2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37686936?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/josephmaa",
+      "html_url": "https://github.com/josephmaa",
+      "followers_url": "https://api.github.com/users/josephmaa/followers",
+      "following_url": "https://api.github.com/users/josephmaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/josephmaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/josephmaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/josephmaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/josephmaa/orgs",
+      "repos_url": "https://api.github.com/users/josephmaa/repos",
+      "events_url": "https://api.github.com/users/josephmaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/josephmaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9dc7ca241b00e8b781039d45a05025ca57eb800e",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/9dc7ca241b00e8b781039d45a05025ca57eb800e",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/9dc7ca241b00e8b781039d45a05025ca57eb800e"
+      }
+    ]
+  },
+  {
+    "sha": "9dc7ca241b00e8b781039d45a05025ca57eb800e",
+    "node_id": "C_kwDOEfTkwtoAKDlkYzdjYTI0MWIwMGU4Yjc4MTAzOWQ0NWEwNTAyNWNhNTdlYjgwMGU",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-27T06:27:29Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-27T06:27:29Z"
+      },
+      "message": "Improve the smoke test run times and quality (#153)\n\nThe original test ran 200 steps and took 40s on @ldoshi 's machine (longer on @josephmaa ).\r\n\r\nThe new version runs many fewer steps and also hits two divergences instead of 1, improving the coverage of the test functionality.",
+      "tree": {
+        "sha": "6dc44ad0a07583060b3a546e1b3be3f40108360a",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/6dc44ad0a07583060b3a546e1b3be3f40108360a"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/9dc7ca241b00e8b781039d45a05025ca57eb800e",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMpfRCRBK7hj4Ov3rIwAAuQIIAI7NmagwC5hzovm5Sz8/aiA+\nsc47VOU+HNAzvTDM+fBJTkGu1R96g+XNZRo5IDcxwKJPtiPPJDspbU381ad2Z0FG\nHyKbw9Wk17TF7DpBpVmcosY2ISM6fUkzLqHrloJCMZuI2HTIYIUeovJeGU343D4l\noaqtWmeJ+qvvBXp2gD5XFMrzDGzY4QRvhh9cRBdG3ngtn13cMs6wtaptvoKnWSz/\nXrIJT7TRjuTH116TEBZXT1L3ywgenqQkX+0/WeOiUoYGxi9VQH8nkbPXSaneww2f\nLKUFnFHBZ+5nZrrsVDck+XqgshvIbMUa7VmfOt+U8EpL+ei4N74ZY6kpz//ekkc=\n=3cfA\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 6dc44ad0a07583060b3a546e1b3be3f40108360a\nparent e85c39a0400be2e5cefbcf00310e31e1bc28aca9\nauthor ldoshi <lyric@mit.edu> 1664260049 -0700\ncommitter GitHub <noreply@github.com> 1664260049 -0700\n\nImprove the smoke test run times and quality (#153)\n\nThe original test ran 200 steps and took 40s on @ldoshi 's machine (longer on @josephmaa ).\r\n\r\nThe new version runs many fewer steps and also hits two divergences instead of 1, improving the coverage of the test functionality."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/9dc7ca241b00e8b781039d45a05025ca57eb800e",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/9dc7ca241b00e8b781039d45a05025ca57eb800e",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/9dc7ca241b00e8b781039d45a05025ca57eb800e/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e85c39a0400be2e5cefbcf00310e31e1bc28aca9",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e85c39a0400be2e5cefbcf00310e31e1bc28aca9",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e85c39a0400be2e5cefbcf00310e31e1bc28aca9"
+      }
+    ]
+  },
+  {
+    "sha": "e85c39a0400be2e5cefbcf00310e31e1bc28aca9",
+    "node_id": "C_kwDOEfTkwtoAKGU4NWMzOWEwNDAwYmUyZTVjZWZiY2YwMDMxMGUzMWUxYmMyOGFjYTk",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T08:08:03Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T08:08:03Z"
+      },
+      "message": "Smoke tests action inversion (#149)\n\nRefactor action inversion analysis tool\r\n* Update documentation style\r\n* Update print_divergences() API to return a value that can be used during smoke tests but won't print during interactive usage.\r\n\r\nAdd smoke tests.",
+      "tree": {
+        "sha": "2f9edc7469f04c7ac22f46df64b9e188530034d1",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/2f9edc7469f04c7ac22f46df64b9e188530034d1"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/e85c39a0400be2e5cefbcf00310e31e1bc28aca9",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMV3jCRBK7hj4Ov3rIwAAGUMIAI2NHRJnl7ztmmylFQ9BhGap\nQZ6+S/0avbdi9rjLlsEDVXe/T4hFQdTV5kuQS8koZqOa6rX8VShbb5HiqRJA0NAc\ny3/PZqvu8dIg8HGkl6FWsRO02YG8T2NZGFwQeE3HOovmVXLNkCHTmb/2T4+Xcem8\nbC+xlZVzVLi6Rt16/Q/ijjT18eFu5Gohgs/mq6E2l9gjTwGhTqUd6wdeZz02l/e3\nNgm4mtlAxspa1fph22TotJ6CSLv9EIYYFDdmxUkNMRXYZB5qeACp04/sKod+PxZo\nOQT3WCNjmtKv0agTGDlX7RAF86LQNBNzp7vkZ3FOH4GSkO/ZdmRcmQBpH6aFq68=\n=5rN0\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2f9edc7469f04c7ac22f46df64b9e188530034d1\nparent 0ecb3524541700426baa9983a56fae2688e44616\nauthor ldoshi <lyric@mit.edu> 1664179683 -0700\ncommitter GitHub <noreply@github.com> 1664179683 -0700\n\nSmoke tests action inversion (#149)\n\nRefactor action inversion analysis tool\r\n* Update documentation style\r\n* Update print_divergences() API to return a value that can be used during smoke tests but won't print during interactive usage.\r\n\r\nAdd smoke tests."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e85c39a0400be2e5cefbcf00310e31e1bc28aca9",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e85c39a0400be2e5cefbcf00310e31e1bc28aca9",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e85c39a0400be2e5cefbcf00310e31e1bc28aca9/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0ecb3524541700426baa9983a56fae2688e44616",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/0ecb3524541700426baa9983a56fae2688e44616",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/0ecb3524541700426baa9983a56fae2688e44616"
+      }
+    ]
+  },
+  {
+    "sha": "0ecb3524541700426baa9983a56fae2688e44616",
+    "node_id": "C_kwDOEfTkwtoAKDBlY2IzNTI0NTQxNzAwNDI2YmFhOTk4M2E1NmZhZTI2ODhlNDQ2MTY",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T07:53:20Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T07:53:20Z"
+      },
+      "message": "Smoke tests training viewer (#148)\n\nRefactor training viewer\r\n* Update documentation style\r\n* Separate main call that parses args and \"library\" call that executes the work. Today we don't test the library portion of the tool in detail (fine), but we could break it out in the future with a unit test file if useful.\r\n* Use IPython embed to pause instead of plt.pause()\r\n\r\nAdd smoke test.",
+      "tree": {
+        "sha": "c208595819ec3a0f82e8501303378260aa7bbaa8",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/c208595819ec3a0f82e8501303378260aa7bbaa8"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/0ecb3524541700426baa9983a56fae2688e44616",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMVpwCRBK7hj4Ov3rIwAANsYIAGYaj+s5Z3x9qubgO7vcFJZ8\nfu73HUSE88p1XYkqdthjPDrCZAIuoHVeSqmWZ8afD72nlbio9p4ZZjo3FSyxmLxZ\ntDl+A5d+1HHoWjD3E5xoaxSI5AMgT8SAP4PwlxGtBUiV3FMYnJNhSxNSeATkoFYX\n3msHJLS3l1y5QYEhVw9Xsu5DXOW9U0aTQMvoDbfk5kJ2G4D1xaiJyb5Jt+rSp3kS\nUEuFhPxGbY+QgUojQGrV7FC1+8aNf8/sqU9LWh5Dz/je5203K8Ny2ZMOpsJN9kBF\nO0Eu0jV/DpcWLDmDiKufY2uHlDmZG43t6SijSULyyI0BSbwgXUBLA5CaMdGn520=\n=byTm\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree c208595819ec3a0f82e8501303378260aa7bbaa8\nparent f5cb7a7cf13d1ecb2de8b17eecc116914930b096\nauthor ldoshi <lyric@mit.edu> 1664178800 -0700\ncommitter GitHub <noreply@github.com> 1664178800 -0700\n\nSmoke tests training viewer (#148)\n\nRefactor training viewer\r\n* Update documentation style\r\n* Separate main call that parses args and \"library\" call that executes the work. Today we don't test the library portion of the tool in detail (fine), but we could break it out in the future with a unit test file if useful.\r\n* Use IPython embed to pause instead of plt.pause()\r\n\r\nAdd smoke test."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/0ecb3524541700426baa9983a56fae2688e44616",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/0ecb3524541700426baa9983a56fae2688e44616",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/0ecb3524541700426baa9983a56fae2688e44616/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f5cb7a7cf13d1ecb2de8b17eecc116914930b096",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/f5cb7a7cf13d1ecb2de8b17eecc116914930b096",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/f5cb7a7cf13d1ecb2de8b17eecc116914930b096"
+      }
+    ]
+  },
+  {
+    "sha": "f5cb7a7cf13d1ecb2de8b17eecc116914930b096",
+    "node_id": "C_kwDOEfTkwtoAKGY1Y2I3YTdjZjEzZDFlY2IyZGU4YjE3ZWVjYzExNjkxNDkzMGIwOTY",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T07:03:11Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T07:03:11Z"
+      },
+      "message": "Smoke tests training batch (#147)\n\nRefactor the training batch analyzer:\r\n\r\n* Update documentation style\r\n* Separate main call that parses args and \"library\" call that executes the work. Today we don't test the library portion of the tool in detail (fine), but we could break it out in the future with a unit test file if useful.\r\n* Shorten flag names\r\n\r\nAdd first set of smoke tests for the tools. These tests don't test the tool functionality in detail. They ensure the tool runs according to the expected usage and should break if some fundamental formats or assumptions are violated in the future. This gives us light protection against tool rot as the code base and logging evolves over time.",
+      "tree": {
+        "sha": "9804f8d8eb53f1da9f51598aead5c2d88c0f5f1f",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/9804f8d8eb53f1da9f51598aead5c2d88c0f5f1f"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/f5cb7a7cf13d1ecb2de8b17eecc116914930b096",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMU6vCRBK7hj4Ov3rIwAA6KMIACwdvT6aslQ9BaC8bu4CWHlA\ndntXYDQINuief7FReE9lAaSJbFWspzRSLmjipA3FzATxR4anVkjqie3ieCgQkBTm\nrxGAYBaqkFoN9SjcaVuYQ7/9yg85eoQ1fGHiZHpCXbwLDZdqgdm5WwWAC4TvjBl2\n+g/oExCiPMvlZr+pjXccv1p6ByjZOP668xzZfDfitMICybn9FT7NGwG7+r3K7f4g\nNWU3pO3Swt5NjrFiCFjmud0CjmUXX0+juiX/uTB5j5/PrlDwnbwzsCV8vOEYQOkw\n+zMz6AdS9Jm3mp5nopL31OfelvOi5Jwg66Tl2KI2Am4SgidENlyqEqRx71fNMSA=\n=s3rt\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 9804f8d8eb53f1da9f51598aead5c2d88c0f5f1f\nparent 1afce6c1c20f6034bc399779cf63f3be9ef70b99\nauthor ldoshi <lyric@mit.edu> 1664175791 -0700\ncommitter GitHub <noreply@github.com> 1664175791 -0700\n\nSmoke tests training batch (#147)\n\nRefactor the training batch analyzer:\r\n\r\n* Update documentation style\r\n* Separate main call that parses args and \"library\" call that executes the work. Today we don't test the library portion of the tool in detail (fine), but we could break it out in the future with a unit test file if useful.\r\n* Shorten flag names\r\n\r\nAdd first set of smoke tests for the tools. These tests don't test the tool functionality in detail. They ensure the tool runs according to the expected usage and should break if some fundamental formats or assumptions are violated in the future. This gives us light protection against tool rot as the code base and logging evolves over time."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/f5cb7a7cf13d1ecb2de8b17eecc116914930b096",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/f5cb7a7cf13d1ecb2de8b17eecc116914930b096",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/f5cb7a7cf13d1ecb2de8b17eecc116914930b096/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1afce6c1c20f6034bc399779cf63f3be9ef70b99",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/1afce6c1c20f6034bc399779cf63f3be9ef70b99",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/1afce6c1c20f6034bc399779cf63f3be9ef70b99"
+      }
+    ]
+  },
+  {
+    "sha": "1afce6c1c20f6034bc399779cf63f3be9ef70b99",
+    "node_id": "C_kwDOEfTkwtoAKDFhZmNlNmMxYzIwZjYwMzRiYzM5OTc3OWNmNjNmM2JlOWVmNzBiOTk",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T06:40:02Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T06:40:02Z"
+      },
+      "message": "Fix bad merge.",
+      "tree": {
+        "sha": "5032626ba47eca17dbd6cd273e0f42d63b5a7577",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/5032626ba47eca17dbd6cd273e0f42d63b5a7577"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/1afce6c1c20f6034bc399779cf63f3be9ef70b99",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/1afce6c1c20f6034bc399779cf63f3be9ef70b99",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/1afce6c1c20f6034bc399779cf63f3be9ef70b99",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/1afce6c1c20f6034bc399779cf63f3be9ef70b99/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0e4e41770b8dfad6d14c137faf76e40a70d2702a",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/0e4e41770b8dfad6d14c137faf76e40a70d2702a",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/0e4e41770b8dfad6d14c137faf76e40a70d2702a"
+      }
+    ]
+  },
+  {
+    "sha": "0e4e41770b8dfad6d14c137faf76e40a70d2702a",
+    "node_id": "C_kwDOEfTkwtoAKDBlNGU0MTc3MGI4ZGZhZDZkMTRjMTM3ZmFmNzZlNDBhNzBkMjcwMmE",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T06:37:58Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T06:37:58Z"
+      },
+      "message": "We have a growing number of tools. Giving them a coherent home. Adding smoke tests in the coming PRs.",
+      "tree": {
+        "sha": "05f280020758d347f8c1c1a6fb9166cc7eb5bc80",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/05f280020758d347f8c1c1a6fb9166cc7eb5bc80"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/0e4e41770b8dfad6d14c137faf76e40a70d2702a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/0e4e41770b8dfad6d14c137faf76e40a70d2702a",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/0e4e41770b8dfad6d14c137faf76e40a70d2702a",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/0e4e41770b8dfad6d14c137faf76e40a70d2702a/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1"
+      }
+    ]
+  },
+  {
+    "sha": "b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1",
+    "node_id": "C_kwDOEfTkwtoAKGIzZDIzMzNiMGVkMzI3YTNiM2M1MWM2Zjg5YWIxZDY4MzJkMWM4ZTE",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T06:26:13Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-26T06:26:13Z"
+      },
+      "message": "Interactive tool to analyze logged action inversion reports.\n\nThe tool supports computing and printing report incident rates, divergence events (transitions from 0 to > 0 inversions as batch idx increases), state/action details for the reports of a specific batch idx.",
+      "tree": {
+        "sha": "33c302a9cfb63208653670cf51491289e6205bd7",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/33c302a9cfb63208653670cf51491289e6205bd7"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/b3d2333b0ed327a3b3c51c6f89ab1d6832d1c8e1/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8"
+      }
+    ]
+  },
+  {
+    "sha": "9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8",
+    "node_id": "C_kwDOEfTkwtoAKDljY2E0NTdmNDNjMWUwZDIxNjVjZGM2YWUzZDViZDQyYjVlMzUxYTg",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-20T22:58:13Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-20T22:58:13Z"
+      },
+      "message": "Log action inversions incident rate to Tensorboard (#145)\n\nLog action inversion incident rate to tensorboard.\r\n\r\nThis will make initial direct comparisons with loss easier. Then further digging can be done with the analyzer tool.",
+      "tree": {
+        "sha": "57047aecc6c9aa3ef0e86126b6a911e6bdae50b7",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/57047aecc6c9aa3ef0e86126b6a911e6bdae50b7"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjKkWFCRBK7hj4Ov3rIwAA6CsIABsFjsrK0tQcu9DZSAOy6AO7\n92D7A8jOsnZqSAQ4nHdBi7fpLJ7dv99KuPAOLVwMkn5jBLbvx8kDe5gOJYvuVG+W\nAws1f+r979teVSTgRQm3mD/yzYs2g1KSExAHXts7yWR+5RsiUP7mwASH7p+skA/H\neyLnKtiA7+NQF2/pUP9w7OUMSRop0/WfuYJsNU/DpV2qCuPVnC1Ox0ZY6p0UQ/og\nPv2EbqhpftHr2x33SZNfLQnvedRwYxYaD6z47p8RAC11zy6aYYlCJ3qR9y/vG+F8\n9wYpADALSK3Jv/4xzjNtCMRteMLpo2LKnqu1Q1MAqCzJ6/KEbv58iVHlXSHcA9I=\n=urO8\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 57047aecc6c9aa3ef0e86126b6a911e6bdae50b7\nparent f5dc0350cce1bb2c073cf893c286f3d35f5c4652\nauthor ldoshi <lyric@mit.edu> 1663714693 -0700\ncommitter GitHub <noreply@github.com> 1663714693 -0700\n\nLog action inversions incident rate to Tensorboard (#145)\n\nLog action inversion incident rate to tensorboard.\r\n\r\nThis will make initial direct comparisons with loss easier. Then further digging can be done with the analyzer tool."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/9cca457f43c1e0d2165cdc6ae3d5bd42b5e351a8/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f5dc0350cce1bb2c073cf893c286f3d35f5c4652",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/f5dc0350cce1bb2c073cf893c286f3d35f5c4652",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/f5dc0350cce1bb2c073cf893c286f3d35f5c4652"
+      }
+    ]
+  },
+  {
+    "sha": "f5dc0350cce1bb2c073cf893c286f3d35f5c4652",
+    "node_id": "C_kwDOEfTkwtoAKGY1ZGMwMzUwY2NlMWJiMmMwNzNjZjg5M2MyODZmM2QzNWY1YzQ2NTI",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-20T19:16:05Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-20T19:16:05Z"
+      },
+      "message": "Action inversion checker log (#142)\n\nLogs action inversions during a training run (1, 2) from #141's Future PRs list.\r\n\r\nUses a helper function to generate actions representing build sequences for the action inversion checker based on current assumptions so that we can test the generation of the actions directly.\r\n\r\nThis PR begins the process of sharding debug mode into subtasks, especially for special-purpose debug modes. Here, a debug flag is added for action inversion checking (and hence logging).",
+      "tree": {
+        "sha": "d91a9e2f5aeaa62b050f1499454e617ed7b5d085",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/d91a9e2f5aeaa62b050f1499454e617ed7b5d085"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/f5dc0350cce1bb2c073cf893c286f3d35f5c4652",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjKhF1CRBK7hj4Ov3rIwAAVewIAKXQcvVQshps6M/bRniVEF+N\nElWAq2Yn8cE1iEE/7KJ6mJGT9vOyU+jI952GeCHf0njQY+nxIvjO7KrI6v/2R/V/\n4WNfkXkI/IjzUrcdkjdWn8Vs7NS8CsCPVr0G8lH0xRcFPtqDg6BXwxviXXrNLYNo\nZE8SIw1YwggM+xANq4GMVwupHqwD+G5xRr6YQmdV87c/Y81mwN+hTyO8VR578+41\n1PvW6glKAQf+TtJPBCynMSrN4ZwX5J9OYl9JRzXIpKUphWKQhlVOP4GVJAMHNp+a\nc5ssLGmG3aq50p64YxprEvagR8LUqgpBTr08NGGbhyZ7VK1XX/oZjBnSJ1+eudA=\n=SFi+\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d91a9e2f5aeaa62b050f1499454e617ed7b5d085\nparent d7d15ec6f36362e45657e4bb3a80d05a711d0fd0\nauthor ldoshi <lyric@mit.edu> 1663701365 -0700\ncommitter GitHub <noreply@github.com> 1663701365 -0700\n\nAction inversion checker log (#142)\n\nLogs action inversions during a training run (1, 2) from #141's Future PRs list.\r\n\r\nUses a helper function to generate actions representing build sequences for the action inversion checker based on current assumptions so that we can test the generation of the actions directly.\r\n\r\nThis PR begins the process of sharding debug mode into subtasks, especially for special-purpose debug modes. Here, a debug flag is added for action inversion checking (and hence logging)."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/f5dc0350cce1bb2c073cf893c286f3d35f5c4652",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/f5dc0350cce1bb2c073cf893c286f3d35f5c4652",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/f5dc0350cce1bb2c073cf893c286f3d35f5c4652/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d7d15ec6f36362e45657e4bb3a80d05a711d0fd0",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/d7d15ec6f36362e45657e4bb3a80d05a711d0fd0",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/d7d15ec6f36362e45657e4bb3a80d05a711d0fd0"
+      }
+    ]
+  },
+  {
+    "sha": "d7d15ec6f36362e45657e4bb3a80d05a711d0fd0",
+    "node_id": "C_kwDOEfTkwtoAKGQ3ZDE1ZWM2ZjM2MzYyZTQ1NjU3ZTRiYjNhODBkMDVhNzExZDBmZDA",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-14T04:58:54Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-14T04:58:54Z"
+      },
+      "message": "Rename _log_entry to _log for log files.",
+      "tree": {
+        "sha": "fff9dd70dbeb52ebc5c19e92a86e49cabdd11ba5",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/fff9dd70dbeb52ebc5c19e92a86e49cabdd11ba5"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/d7d15ec6f36362e45657e4bb3a80d05a711d0fd0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/d7d15ec6f36362e45657e4bb3a80d05a711d0fd0",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/d7d15ec6f36362e45657e4bb3a80d05a711d0fd0",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/d7d15ec6f36362e45657e4bb3a80d05a711d0fd0/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e347daa1d796f5e5ed5c62dd1ad9337cdebe0126",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e347daa1d796f5e5ed5c62dd1ad9337cdebe0126",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e347daa1d796f5e5ed5c62dd1ad9337cdebe0126"
+      }
+    ]
+  },
+  {
+    "sha": "e347daa1d796f5e5ed5c62dd1ad9337cdebe0126",
+    "node_id": "C_kwDOEfTkwtoAKGUzNDdkYWExZDc5NmY1ZTVlZDVjNjJkZDFhZDkzMzdjZGViZTAxMjY",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-13T19:55:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-13T19:55:32Z"
+      },
+      "message": "Simplify the public interface to read log entries by path (#143)\n\nSimplify the public interface to read log entries to use the path directly since that is the usual way of passing in a log file.",
+      "tree": {
+        "sha": "8b33e58a04f0e6fc08232d86c62307603a88c917",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/8b33e58a04f0e6fc08232d86c62307603a88c917"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/e347daa1d796f5e5ed5c62dd1ad9337cdebe0126",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjIOA0CRBK7hj4Ov3rIwAAd44IADP2sicJzRv4Q2cWY8QsK8Nt\nY5WQiTesdoOBsmagDZQJhD41I7Nw8nEJ55A3DThFS+zfkH87818kN3yGtuhnMQVi\ngWF2YEm7A2hOH6INgJRPzmOCOa/XxMAg2BD9VveP9Y+uySv873a1gyP0RSSc+Bd/\nvbaI13/Em/ZzF54vIXGnJcXy4HislcLNlWMpyIABixfePn3TLJMJ4SyUZKhHIsuK\numtLnFeEHq2q8m9RaZL/Opnfbg9kAK5yZ36dCp7r2Y103LzOi5GVnkUzv38IkwSJ\nDcc9e+hb4O2+CTC/Wq4z5okEWZMdxPyvLZ8H1bhkBq0QmcvgDKa3ORLxP67BNos=\n=ZQ1D\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8b33e58a04f0e6fc08232d86c62307603a88c917\nparent 43c42c64806140ceb0a76cdde1af687434fdfee3\nauthor ldoshi <lyric@mit.edu> 1663098932 -0700\ncommitter GitHub <noreply@github.com> 1663098932 -0700\n\nSimplify the public interface to read log entries by path (#143)\n\nSimplify the public interface to read log entries to use the path directly since that is the usual way of passing in a log file.\r\n"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e347daa1d796f5e5ed5c62dd1ad9337cdebe0126",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e347daa1d796f5e5ed5c62dd1ad9337cdebe0126",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e347daa1d796f5e5ed5c62dd1ad9337cdebe0126/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "43c42c64806140ceb0a76cdde1af687434fdfee3",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/43c42c64806140ceb0a76cdde1af687434fdfee3",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/43c42c64806140ceb0a76cdde1af687434fdfee3"
+      }
+    ]
+  },
+  {
+    "sha": "43c42c64806140ceb0a76cdde1af687434fdfee3",
+    "node_id": "C_kwDOEfTkwtoAKDQzYzQyYzY0ODA2MTQwY2ViMGE3NmNkZGUxYWY2ODc0MzRmZGZlZTM",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-13T05:52:55Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-13T05:52:55Z"
+      },
+      "message": "Action inversion checker (#141)\n\nThe action inversion checker identifies when a policy used to identify a preferred action for a state and then stopped. It will be part of our tool set in debugging why/when the policies starts diverging badly after converging.\r\n\r\nThis PR submits a standalone utility tied to current bridge building problems.\r\n\r\nFuture PRs will:\r\n\r\n1. Integrate the action inversion checker into the builder_trainer\r\n2. Log the ActionInversionReports via object logger\r\n3. Create a simple visualization or log browse utility to debug.\r\n\r\nThis PR also creates a debug directory into which we may move other tools.",
+      "tree": {
+        "sha": "2b99f7782958040238c2300e00b5281b0fc71016",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/2b99f7782958040238c2300e00b5281b0fc71016"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/43c42c64806140ceb0a76cdde1af687434fdfee3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjIBq3CRBK7hj4Ov3rIwAAXaoIADkF2zD48noJKnVZ1eDp0NaD\npYJ+RMv24ujcqHkTWAt939pe/LMzqHBIoG3yVAqjpbw8C+3+O0+ybXJ88aTN1wRx\nPcwBHU533bpW8Aj7Za97oWQFt7IUuiRs9fqNpvX9w9AAlNAQHVwwC9q5kFOClYGK\naf378HG/W4tp9YwHCy9vopDss5uLmW7bt3YK2Dut292Dd3HHqAvaz8j4UnQ5GuAz\n6bBROaLI3Gf4hXmwXg+IbfOYVeW3TNi60/Zbj04E64l6TA7XT2zzTJmNj7zgWpjC\n9PfwOpRFH4icf6dOaf42sI0kbkSTrQVlK2qmVieMdCV843FqPe6MU7ewC28YtoM=\n=y/QW\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2b99f7782958040238c2300e00b5281b0fc71016\nparent 36abeb78c4f4117f68db18125351170af1033174\nauthor ldoshi <lyric@mit.edu> 1663048375 -0700\ncommitter GitHub <noreply@github.com> 1663048375 -0700\n\nAction inversion checker (#141)\n\nThe action inversion checker identifies when a policy used to identify a preferred action for a state and then stopped. It will be part of our tool set in debugging why/when the policies starts diverging badly after converging.\r\n\r\nThis PR submits a standalone utility tied to current bridge building problems.\r\n\r\nFuture PRs will:\r\n\r\n1. Integrate the action inversion checker into the builder_trainer\r\n2. Log the ActionInversionReports via object logger\r\n3. Create a simple visualization or log browse utility to debug.\r\n\r\nThis PR also creates a debug directory into which we may move other tools."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/43c42c64806140ceb0a76cdde1af687434fdfee3",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/43c42c64806140ceb0a76cdde1af687434fdfee3",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/43c42c64806140ceb0a76cdde1af687434fdfee3/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "36abeb78c4f4117f68db18125351170af1033174",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/36abeb78c4f4117f68db18125351170af1033174",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/36abeb78c4f4117f68db18125351170af1033174"
+      }
+    ]
+  },
+  {
+    "sha": "36abeb78c4f4117f68db18125351170af1033174",
+    "node_id": "C_kwDOEfTkwtoAKDM2YWJlYjc4YzRmNDExN2Y2OGRiMTgxMjUzNTExNzBhZjEwMzMxNzQ",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-01T06:25:29Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-01T06:25:29Z"
+      },
+      "message": "Swap in efficient hash function for tensors. (#140)",
+      "tree": {
+        "sha": "b605e2d8a58d17c98372f64a2ec098b689f8901a",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/b605e2d8a58d17c98372f64a2ec098b689f8901a"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/36abeb78c4f4117f68db18125351170af1033174",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjEFBZCRBK7hj4Ov3rIwAAOlgIABcW9/UuFJhuAQmYZ0cPaCDP\nEBQQNc1Y7dSYOcIgAjOj43C0DPZFAPpUwgIfYEkamNdG+A0Qc6Ff8kQkW2GYPEzQ\nLCAk08smpZwI7pmrg9AtW1Sp2Tym+noJf/Q087JSBcyOydMz/vpV1TFqxGJ91Ttt\nZvym71sudqOTrOhnDRJcwAGMxgrjBM1GK/R+pNBv1B/FNXSmhM6uza+d0GSoQuUY\nb3VxIXXQlQY18NOig49ElEvtuB2L/IM2wVmprRMl5mL8u4/e3/gYXXm0mQwSrFNj\naE8xKWBwMGcWuyxzktNDrIeU7Uoh1BQpNApLGXr7muIDxY9cZWGUtqe+j69/OYA=\n=d2L8\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b605e2d8a58d17c98372f64a2ec098b689f8901a\nparent fcb4505e08351043f3c49f840c9cd80915799693\nauthor ldoshi <lyric@mit.edu> 1662013529 -0700\ncommitter GitHub <noreply@github.com> 1662013529 -0700\n\nSwap in efficient hash function for tensors. (#140)\n\n"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/36abeb78c4f4117f68db18125351170af1033174",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/36abeb78c4f4117f68db18125351170af1033174",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/36abeb78c4f4117f68db18125351170af1033174/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fcb4505e08351043f3c49f840c9cd80915799693",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/fcb4505e08351043f3c49f840c9cd80915799693",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/fcb4505e08351043f3c49f840c9cd80915799693"
+      }
+    ]
+  },
+  {
+    "sha": "fcb4505e08351043f3c49f840c9cd80915799693",
+    "node_id": "C_kwDOEfTkwtoAKGZjYjQ1MDVlMDgzNTEwNDNmM2M0OWY4NDBjOWNkODA5MTU3OTk2OTM",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-09-01T04:46:50Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-01T04:46:50Z"
+      },
+      "message": "Rename hash.py to hash_utils.py  (#139)\n\n* Rename hash.py to hash_utils.py to avoid collision with built-in hash function. Update an import to be the module vs the function.",
+      "tree": {
+        "sha": "2a8326a68ad189e27e24eca97d8585de0a8705e9",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/2a8326a68ad189e27e24eca97d8585de0a8705e9"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/fcb4505e08351043f3c49f840c9cd80915799693",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjEDk6CRBK7hj4Ov3rIwAAcSUIABeXSGvzBbWQ1xiUcNjZPWO/\n7vIXJ8wtPDWciWmjg+Pv+WofB108bayOuxZ0IyCfevwj7aG6rFB7cDhx+es5tdal\nwREETYvag+47YACsKm5PRChhy683lTl4YU8511np+O+OeNaGM2r8dyn4DTKogKSY\nJND8zF4RhyHym3QnD+93ABMAnYi/U8Dk5fu+nyw9d9N+COqmI4jK6CnGKgr1/xaq\nELX797L7HnXZ0RrPJzaQkqp1iCCAHTwcI2Cd0/XD75a4z5f0CnK5xDT177YGNoKN\nOlGdmrOIrpjxxLx6IprBEmXCap1+kztLjgwE/0BrrcL3OEU7oXI4+X0p8J3tLms=\n=Q7uG\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2a8326a68ad189e27e24eca97d8585de0a8705e9\nparent bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3\nauthor ldoshi <lyric@mit.edu> 1662007610 -0700\ncommitter GitHub <noreply@github.com> 1662007610 -0700\n\nRename hash.py to hash_utils.py  (#139)\n\n* Rename hash.py to hash_utils.py to avoid collision with built-in hash function. Update an import to be the module vs the function."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/fcb4505e08351043f3c49f840c9cd80915799693",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/fcb4505e08351043f3c49f840c9cd80915799693",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/fcb4505e08351043f3c49f840c9cd80915799693/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3"
+      }
+    ]
+  },
+  {
+    "sha": "bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3",
+    "node_id": "C_kwDOEfTkwtoAKGJiMWU3ZWIzYTVkNzcyNDJjMzZjY2IzNmEwMWViNDFhM2JmZTc1ZjM",
+    "commit": {
+      "author": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-08-09T06:58:58Z"
+      },
+      "committer": {
+        "name": "Lyric Doshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-08-09T06:58:58Z"
+      },
+      "message": "Upgrade black due to error: https://stackoverflow.com/questions/71673404/importerror-cannot-import-name-unicodefun-from-click",
+      "tree": {
+        "sha": "1cc3323e460033c772a7f4ae27c884fbd098fad2",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/1cc3323e460033c772a7f4ae27c884fbd098fad2"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/bb1e7eb3a5d77242c36ccb36a01eb41a3bfe75f3/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c4055ddfa72858d54b2a6b7c599a596add1bd057",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c4055ddfa72858d54b2a6b7c599a596add1bd057",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/c4055ddfa72858d54b2a6b7c599a596add1bd057"
+      }
+    ]
+  },
+  {
+    "sha": "c4055ddfa72858d54b2a6b7c599a596add1bd057",
+    "node_id": "C_kwDOEfTkwtoAKGM0MDU1ZGRmYTcyODU4ZDU0YjJhNmI3YzU5OWE1OTZhZGQxYmQwNTc",
+    "commit": {
+      "author": {
+        "name": "Joseph Maa",
+        "email": "josephgmaa@berkeley.edu",
+        "date": "2022-08-02T06:21:47Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-08-02T06:21:47Z"
+      },
+      "message": "Update README.md\n\nFix an error in installation.",
+      "tree": {
+        "sha": "e2f2440eecb423040c1aef3db0124ab576be9031",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/e2f2440eecb423040c1aef3db0124ab576be9031"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/c4055ddfa72858d54b2a6b7c599a596add1bd057",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJi6MJ7CRBK7hj4Ov3rIwAANWYIAGkr8XIvLI/0Ov0LFHWjKP9g\nTeunDWeHkAweRGG7aobyeBDH09EAy170EvaNIBEQXH3bF0pnCqXf0sfhdiXA1zge\n7/XuAJrDSgO+FCCm0rIxd2FbVmgPt45X0jlst76klKxWFt54TWsV195Q7d3XBWtA\nT7H3U4/ak5A2QLWnXLZNctIcyRuLBqJbgYyVGh9AaMwdar6Guuu19yd1FgCJ3vRG\nH2jommqoB1uxMOgoqmWn0BD1D0gImHUlHMrByCleE2Ms0BQqnlHoEuDI7Qu/9pRj\nxL0qqvyh3xWiU+z4Y2j9nLGa7D2mYci2+bIAMjDTQsKbfeR9BT+zWtKPReC5o10=\n=nHQ6\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e2f2440eecb423040c1aef3db0124ab576be9031\nparent 486a182cceb0d4f3c7d84731878e2e6670a15593\nauthor Joseph Maa <josephgmaa@berkeley.edu> 1659421307 -0700\ncommitter GitHub <noreply@github.com> 1659421307 -0700\n\nUpdate README.md\n\nFix an error in installation."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c4055ddfa72858d54b2a6b7c599a596add1bd057",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/c4055ddfa72858d54b2a6b7c599a596add1bd057",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/c4055ddfa72858d54b2a6b7c599a596add1bd057/comments",
+    "author": {
+      "login": "josephmaa",
+      "id": 37686936,
+      "node_id": "MDQ6VXNlcjM3Njg2OTM2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37686936?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/josephmaa",
+      "html_url": "https://github.com/josephmaa",
+      "followers_url": "https://api.github.com/users/josephmaa/followers",
+      "following_url": "https://api.github.com/users/josephmaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/josephmaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/josephmaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/josephmaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/josephmaa/orgs",
+      "repos_url": "https://api.github.com/users/josephmaa/repos",
+      "events_url": "https://api.github.com/users/josephmaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/josephmaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "486a182cceb0d4f3c7d84731878e2e6670a15593",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/486a182cceb0d4f3c7d84731878e2e6670a15593",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/486a182cceb0d4f3c7d84731878e2e6670a15593"
+      }
+    ]
+  },
+  {
+    "sha": "486a182cceb0d4f3c7d84731878e2e6670a15593",
+    "node_id": "C_kwDOEfTkwtoAKDQ4NmExODJjY2ViMGQ0ZjNjN2Q4NDczMTg3OGUyZTY2NzBhMTU1OTM",
+    "commit": {
+      "author": {
+        "name": "arvindthiagarajan",
+        "email": "46770457+arvindthiagarajan@users.noreply.github.com",
+        "date": "2022-07-19T07:58:07Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-07-19T07:58:07Z"
+      },
+      "message": "Split utils.py into more meaningfully named modules (#135)",
+      "tree": {
+        "sha": "ea6104937d01ac04ba7cb287b91f9e80f673c4ca",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/ea6104937d01ac04ba7cb287b91f9e80f673c4ca"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/486a182cceb0d4f3c7d84731878e2e6670a15593",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJi1mQPCRBK7hj4Ov3rIwAAalcIAGzq2JZhIwEKL6WHI4ax9YSD\niwPfU6asi/u74g6ZyZkX204kh3uhv5WRDfq4NX4+Z+ko4QSC8ucx5rDNygn2w467\n8BTkLPIWjMpOXHe+KK9xcGDwTP7k9Qjpbw+W8hDk0XbSUYwDzCHbBq1mw2cGHxHW\nrG2dEacpj3caj+1Qs0/xx6Ye9hH8OEgFCAhHZULF9EYNQFYSRmjDSShUwd1T0Wki\nntsG14Uy1HxUpIcIT05RTytcS5EfkuMPkMzUo3YKv5GHpZJ6c7LiHVVwNmlNlI+8\n5koOQetPCBhzxT7afYGNYCzmLskTZBMEvym9I9+Z/Qa7QA5nWv5IVNq4RtsuqjA=\n=x89p\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ea6104937d01ac04ba7cb287b91f9e80f673c4ca\nparent ff906375dd848644eaa2a3556ee20831db8679f4\nauthor arvindthiagarajan <46770457+arvindthiagarajan@users.noreply.github.com> 1658217487 -0700\ncommitter GitHub <noreply@github.com> 1658217487 -0700\n\nSplit utils.py into more meaningfully named modules (#135)\n\n"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/486a182cceb0d4f3c7d84731878e2e6670a15593",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/486a182cceb0d4f3c7d84731878e2e6670a15593",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/486a182cceb0d4f3c7d84731878e2e6670a15593/comments",
+    "author": {
+      "login": "arvindthiagarajan",
+      "id": 46770457,
+      "node_id": "MDQ6VXNlcjQ2NzcwNDU3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46770457?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/arvindthiagarajan",
+      "html_url": "https://github.com/arvindthiagarajan",
+      "followers_url": "https://api.github.com/users/arvindthiagarajan/followers",
+      "following_url": "https://api.github.com/users/arvindthiagarajan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/arvindthiagarajan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/arvindthiagarajan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/arvindthiagarajan/subscriptions",
+      "organizations_url": "https://api.github.com/users/arvindthiagarajan/orgs",
+      "repos_url": "https://api.github.com/users/arvindthiagarajan/repos",
+      "events_url": "https://api.github.com/users/arvindthiagarajan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/arvindthiagarajan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ff906375dd848644eaa2a3556ee20831db8679f4",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ff906375dd848644eaa2a3556ee20831db8679f4",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/ff906375dd848644eaa2a3556ee20831db8679f4"
+      }
+    ]
+  },
+  {
+    "sha": "ff906375dd848644eaa2a3556ee20831db8679f4",
+    "node_id": "C_kwDOEfTkwtoAKGZmOTA2Mzc1ZGQ4NDg2NDRlYWEyYTM1NTZlZTIwODMxZGI4Njc5ZjQ",
+    "commit": {
+      "author": {
+        "name": "arvindthiagarajan",
+        "email": "46770457+arvindthiagarajan@users.noreply.github.com",
+        "date": "2022-07-19T07:11:15Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-07-19T07:11:15Z"
+      },
+      "message": "Hash Tensors Efficiently (#114)\n\n* Introduced a tensor hash that uses tensor shape and content\r\n* Added tests for validity and speed of different tensor hash functions",
+      "tree": {
+        "sha": "79fae0849c78dd09867476ab9ed1561de5b52a57",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/79fae0849c78dd09867476ab9ed1561de5b52a57"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/ff906375dd848644eaa2a3556ee20831db8679f4",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJi1lkTCRBK7hj4Ov3rIwAA3XQIAIAYMF5tdxrrgprys3yPmkPt\ncRp6KEZB9swo4IRrq92yxl07vP1BRqWRZe/ZQwSYTrjb+H4Stq3HwtP+emJ1ZkJ4\nCMHhNHBDp2yF4Af0mN+XxMmkLouHfDdOuplBrDDI7wOX6mc/0OsG8eplz4AGUsd/\nxbBiHU1Y8a8Jki6iwzgsdocwGjaWYHf0X67LH8iHtNC5RM2fXp1bT14SFddik5DR\n1uhNRB2kxVQqLSQ2Lt/vFv/xGNAOc2Z/C5L/ayDXJ2QYKK+YEjArr1cpj2ZGdKFf\nIBgqyPK5kGpgchIs3CA1c7WQF62qyA4Yes+d+an2OWFBmc6JAWhHW4aXtKcASFk=\n=sjLD\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 79fae0849c78dd09867476ab9ed1561de5b52a57\nparent 45fd9948c176daedfbdb2d0c991124f354a7a7a4\nauthor arvindthiagarajan <46770457+arvindthiagarajan@users.noreply.github.com> 1658214675 -0700\ncommitter GitHub <noreply@github.com> 1658214675 -0700\n\nHash Tensors Efficiently (#114)\n\n* Introduced a tensor hash that uses tensor shape and content\r\n* Added tests for validity and speed of different tensor hash functions"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ff906375dd848644eaa2a3556ee20831db8679f4",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/ff906375dd848644eaa2a3556ee20831db8679f4",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ff906375dd848644eaa2a3556ee20831db8679f4/comments",
+    "author": {
+      "login": "arvindthiagarajan",
+      "id": 46770457,
+      "node_id": "MDQ6VXNlcjQ2NzcwNDU3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46770457?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/arvindthiagarajan",
+      "html_url": "https://github.com/arvindthiagarajan",
+      "followers_url": "https://api.github.com/users/arvindthiagarajan/followers",
+      "following_url": "https://api.github.com/users/arvindthiagarajan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/arvindthiagarajan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/arvindthiagarajan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/arvindthiagarajan/subscriptions",
+      "organizations_url": "https://api.github.com/users/arvindthiagarajan/orgs",
+      "repos_url": "https://api.github.com/users/arvindthiagarajan/repos",
+      "events_url": "https://api.github.com/users/arvindthiagarajan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/arvindthiagarajan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "45fd9948c176daedfbdb2d0c991124f354a7a7a4",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/45fd9948c176daedfbdb2d0c991124f354a7a7a4",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/45fd9948c176daedfbdb2d0c991124f354a7a7a4"
+      }
+    ]
+  },
+  {
+    "sha": "45fd9948c176daedfbdb2d0c991124f354a7a7a4",
+    "node_id": "C_kwDOEfTkwtoAKDQ1ZmQ5OTQ4YzE3NmRhZWRmYmRiMmQwYzk5MTEyNGYzNTRhN2E3YTQ",
+    "commit": {
+      "author": {
+        "name": "Joseph Maa",
+        "email": "josephgmaa@berkeley.edu",
+        "date": "2022-07-08T05:15:22Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-07-08T05:15:22Z"
+      },
+      "message": "feat: Add StateActionCache for debugging loss explosion (#134)\n\n* Add StateActionCache and unit tests\r\n\r\n* Make recommended changes and fix typing issues\r\n\r\n* Fix action incorrect typing and training_viewer arguments breaking pytype\r\n\r\n* Make recommended changes to comments and docstrings",
+      "tree": {
+        "sha": "27d047d884a157687a0cbd85746c8882783f85c7",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/27d047d884a157687a0cbd85746c8882783f85c7"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/45fd9948c176daedfbdb2d0c991124f354a7a7a4",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJix71qCRBK7hj4Ov3rIwAAGMgIABPk3oBbzhT9mmglUSO873Fa\nq0DN4rnYH/Ze7ICM2dqRDDTfXsHJFaTeSkroZRGlFXiAeYOtZT4lsnLTfiHvecHo\nLmXwjAj3tYFGF/oaFti/JFFtwZo4ml91N2VbCfNRltxuEiZgkXrolcE9CXmVnjgq\nY97jVeu/jOMaE/TP6sj4paq3F9weo3Mhqf9esMFlnesOS7HQnHWfewWCSLC4mRXV\nqwUzr3BqihQ0rlXmddO62/PoGbS3ZLLDCs4sFngKQX/YL6mTtKALDaSmiHOOPzDB\nVhp15VaOO/g4bFY/+9u+l5vivEW5pCZylIvxTqoVYV8TVhidtGNl0fRCAylQKOQ=\n=pTTw\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 27d047d884a157687a0cbd85746c8882783f85c7\nparent ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47\nauthor Joseph Maa <josephgmaa@berkeley.edu> 1657257322 -0700\ncommitter GitHub <noreply@github.com> 1657257322 -0700\n\nfeat: Add StateActionCache for debugging loss explosion (#134)\n\n* Add StateActionCache and unit tests\r\n\r\n* Make recommended changes and fix typing issues\r\n\r\n* Fix action incorrect typing and training_viewer arguments breaking pytype\r\n\r\n* Make recommended changes to comments and docstrings"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/45fd9948c176daedfbdb2d0c991124f354a7a7a4",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/45fd9948c176daedfbdb2d0c991124f354a7a7a4",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/45fd9948c176daedfbdb2d0c991124f354a7a7a4/comments",
+    "author": {
+      "login": "josephmaa",
+      "id": 37686936,
+      "node_id": "MDQ6VXNlcjM3Njg2OTM2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37686936?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/josephmaa",
+      "html_url": "https://github.com/josephmaa",
+      "followers_url": "https://api.github.com/users/josephmaa/followers",
+      "following_url": "https://api.github.com/users/josephmaa/following{/other_user}",
+      "gists_url": "https://api.github.com/users/josephmaa/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/josephmaa/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/josephmaa/subscriptions",
+      "organizations_url": "https://api.github.com/users/josephmaa/orgs",
+      "repos_url": "https://api.github.com/users/josephmaa/repos",
+      "events_url": "https://api.github.com/users/josephmaa/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/josephmaa/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47"
+      }
+    ]
+  },
+  {
+    "sha": "ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47",
+    "node_id": "C_kwDOEfTkwtoAKGNhNzA0Y2Y1MWFjYzFiYTVkOGJhOTA3NGRlZDFhNTRjNzliOGVhNDc",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-05-27T05:44:45Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-05-27T05:44:45Z"
+      },
+      "message": "Update the training panel to use object logs (#120)\n\nThis PR ends the long story arc to migrate the training history logging and viewing to use the new logging infrastructure.\r\n\r\nThe Training Viewer is now only supported as an offline tool to be run after object logs are written during a bridge_builder.py --debug run. The viewer code is simplified to largely reflect training_panel.py. The previous training_panel.py, training_history.py and training_history_test.py are no longer needed in the new system.",
+      "tree": {
+        "sha": "d83e7f0c126505c07f6ab383e801323dd5c55941",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/d83e7f0c126505c07f6ab383e801323dd5c55941"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJikGVNCRBK7hj4Ov3rIwAAJvcIAEO6oKP+Ip9pMnj9aN0pL01U\nf/D9NSSwjad8ztZfvrUyPf1rl0HvYbVivm7LC4lOnshapdxVZZkPXwH7gBm/YOu1\nwdQutMyWPFw6ial/IxOUodZhxlITFe31YUeji0f5OSKhdcyp8ZFbtmnsh3VWMtj7\nT5a27IzvIxGtkfPrTZrUCgXudYRnIhCJyN2abZbp4zeYsl+PHOivontHVgrcDKAL\nYnuUQ4cVoBg9+Gct+EbG2Cv5c0835Pw/7rkkUwbYbhJ0uott5UpJT3HPy1BE6I6j\nuDM8vurw6HYJqkfRDEk2xwGG1s12WSkwaCUGdfu1pyPv8+0HFUmC90l/fmaybkc=\n=i3iW\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d83e7f0c126505c07f6ab383e801323dd5c55941\nparent acad92c1f8c753da426c5fb6cc93f9aa9a0c7862\nauthor ldoshi <lyric@mit.edu> 1653630285 -0700\ncommitter GitHub <noreply@github.com> 1653630285 -0700\n\nUpdate the training panel to use object logs (#120)\n\nThis PR ends the long story arc to migrate the training history logging and viewing to use the new logging infrastructure.\r\n\r\nThe Training Viewer is now only supported as an offline tool to be run after object logs are written during a bridge_builder.py --debug run. The viewer code is simplified to largely reflect training_panel.py. The previous training_panel.py, training_history.py and training_history_test.py are no longer needed in the new system."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ca704cf51acc1ba5d8ba9074ded1a54c79b8ea47/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "acad92c1f8c753da426c5fb6cc93f9aa9a0c7862",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/acad92c1f8c753da426c5fb6cc93f9aa9a0c7862",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/acad92c1f8c753da426c5fb6cc93f9aa9a0c7862"
+      }
+    ]
+  },
+  {
+    "sha": "acad92c1f8c753da426c5fb6cc93f9aa9a0c7862",
+    "node_id": "C_kwDOEfTkwtoAKGFjYWQ5MmMxZjhjNzUzZGE0MjZjNWZiNmNjOTNmOWFhOWEwYzc4NjI",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-05-27T05:29:07Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-05-27T05:29:07Z"
+      },
+      "message": "Object Log Reader Functions (#119)\n\nCreate a shared file for object log reader functions and add TrainingHistoryDatabase as a object log reading tool.\r\n\r\nThe TrainingHistoryDatabase provides query access above training history and state object logs. The current use-case is to support the training viewer, which will be migrated to use the TrainingHistoryDatabase in the next PR.",
+      "tree": {
+        "sha": "f4a0dc9dc81716106d78007efac68e8f520818ef",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/f4a0dc9dc81716106d78007efac68e8f520818ef"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/acad92c1f8c753da426c5fb6cc93f9aa9a0c7862",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJikGGjCRBK7hj4Ov3rIwAAutgIACrGqFxUC59vm9GaQR3TJVzK\ni2SUicKvhtINo4ds1LMab2KsLDBgRqVb6wngVUcPb8A7BYxyTrePBx7OHQNl4QxS\n8TylID5QHU5symDfGDyVUChb7p3/xTxnZ0Rur+ypN0JHAkBVeqiOCdUxQDfVVqgS\nHhNxjBp01aR6eU67yVSqCyC6gY7Zkqv61ImEI4OTUjXDnJYJXcTqafWEpPNFiasD\nHyEJuBcxNLf+k8b4654A1aA3mflAY+S6r1DHz4bFQs99WY84XJfBAUC/CgGnTyry\nEfwmsW3OU/jeFvdbo33E6v9WW50/0i9J8XI4Xp0IGzLDDZbt0eKiNEAHVzzfVL0=\n=f0Zq\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f4a0dc9dc81716106d78007efac68e8f520818ef\nparent b8b8780100629577849b1794484470994cb83e21\nauthor ldoshi <lyric@mit.edu> 1653629347 -0700\ncommitter GitHub <noreply@github.com> 1653629347 -0700\n\nObject Log Reader Functions (#119)\n\nCreate a shared file for object log reader functions and add TrainingHistoryDatabase as a object log reading tool.\r\n\r\nThe TrainingHistoryDatabase provides query access above training history and state object logs. The current use-case is to support the training viewer, which will be migrated to use the TrainingHistoryDatabase in the next PR."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/acad92c1f8c753da426c5fb6cc93f9aa9a0c7862",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/acad92c1f8c753da426c5fb6cc93f9aa9a0c7862",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/acad92c1f8c753da426c5fb6cc93f9aa9a0c7862/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b8b8780100629577849b1794484470994cb83e21",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/b8b8780100629577849b1794484470994cb83e21",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/b8b8780100629577849b1794484470994cb83e21"
+      }
+    ]
+  },
+  {
+    "sha": "b8b8780100629577849b1794484470994cb83e21",
+    "node_id": "C_kwDOEfTkwtoAKGI4Yjg3ODAxMDA2Mjk1Nzc4NDliMTc5NDQ4NDQ3MDk5NGNiODNlMjE",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-05-25T23:24:37Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-05-25T23:24:37Z"
+      },
+      "message": "Upgrade Lightning and fix golden outputs after the env rewards change. (#127)\n\n* Fix golden outputs after the env rewards change.\n\n* Upgrade pytorch lightning. We are seeing issues with importing the pytorch_lightning.callbacks module. It seems related to: https://stackoverflow.com/questions/71971105/importerror-cannot-import-name-x-from-y\n\n* Fix typing.\n\n* Typing fix.\n\n* Update golden values.\n\n* Black.",
+      "tree": {
+        "sha": "c0a8d3a16ddaaaf2f46e40578e5cc3b854c227dc",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/c0a8d3a16ddaaaf2f46e40578e5cc3b854c227dc"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/b8b8780100629577849b1794484470994cb83e21",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJijrq1CRBK7hj4Ov3rIwAAbk0IAF9Jj4EGuthQamNKp9vdZpR2\n0WsAFjOqtGZ2Si00KvvVJE07MkVy2O0RnXb0YJdN4tAPDua7vq8KVMNeFMCvvv5f\npUxXfVqdeQoOz42D1tQC650LPNKDVI8MjZwNDDx3iaia0zBhB4thyHXEhL9kffje\nzbYTR1aW0HlgI2K7yEYs1GTzvq+2jl0fNd/qnsaUI+U0TF7eJIX4bQY7WQhyFVF3\nvpAQfRFOFONntnmgY5ACtB+YYQKG6l+SDboN/rPImgHIbT298fJFJLF2ueiBJNT1\njzrjzmeDIM30w6tVuN3ay97FWR7yNLNqiBvksAvYZLRt9OXs8elyo2rJA6juPeg=\n=BAaQ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree c0a8d3a16ddaaaf2f46e40578e5cc3b854c227dc\nparent ef031d0d8c6dee405e63ca28050609609e1185b8\nauthor ldoshi <lyric@mit.edu> 1653521077 -0700\ncommitter GitHub <noreply@github.com> 1653521077 -0700\n\nUpgrade Lightning and fix golden outputs after the env rewards change. (#127)\n\n* Fix golden outputs after the env rewards change.\n\n* Upgrade pytorch lightning. We are seeing issues with importing the pytorch_lightning.callbacks module. It seems related to: https://stackoverflow.com/questions/71971105/importerror-cannot-import-name-x-from-y\n\n* Fix typing.\n\n* Typing fix.\n\n* Update golden values.\n\n* Black."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/b8b8780100629577849b1794484470994cb83e21",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/b8b8780100629577849b1794484470994cb83e21",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/b8b8780100629577849b1794484470994cb83e21/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ef031d0d8c6dee405e63ca28050609609e1185b8",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ef031d0d8c6dee405e63ca28050609609e1185b8",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/ef031d0d8c6dee405e63ca28050609609e1185b8"
+      }
+    ]
+  },
+  {
+    "sha": "ef031d0d8c6dee405e63ca28050609609e1185b8",
+    "node_id": "C_kwDOEfTkwtoAKGVmMDMxZDBkOGM2ZGVlNDA1ZTYzY2EyODA1MDYwOTYwOWUxMTg1Yjg",
+    "commit": {
+      "author": {
+        "name": "arvindthiagarajan",
+        "email": "46770457+arvindthiagarajan@users.noreply.github.com",
+        "date": "2022-05-20T07:29:17Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-05-20T07:29:17Z"
+      },
+      "message": "Making BridgeBuilderModel compatible with newer versions of PTL (#132)",
+      "tree": {
+        "sha": "9485a5ed34eb5cecf44261fc9b9b155adaebacd8",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/9485a5ed34eb5cecf44261fc9b9b155adaebacd8"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/ef031d0d8c6dee405e63ca28050609609e1185b8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJih0NNCRBK7hj4Ov3rIwAA15cIACO3d+dh1GYmZzzL5ejy2qos\nG9DmyvKd+kAedbjSoxprR1tRVzuAPlksh9p+6MxeZUsnfy7DarYwbLiS2W++R8p6\nuXmJw1nyHvrPvyYFmQagHJjdh9mQNmm7k+w2d2Ervb5hb/UH1ZALZRazfqfdH04R\n81FRB4H/wzkjBH7LUF/PHTxY2e3a5om923RXQPL5Mz+6gWTwBUlafA1+4aFcWHmH\n6XjXPsCk3AVY565Yn3V3aDm+lbBihSmVqkIrY6mVd3RQ2pApec4z9XPOakrzxdcu\ng8oHv0Wpai8POubj9JSTz2qRyC/OUlAuak69RZSOAIye4QZsuRUVLspFMmJFdIg=\n=S2ax\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 9485a5ed34eb5cecf44261fc9b9b155adaebacd8\nparent 5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5\nauthor arvindthiagarajan <46770457+arvindthiagarajan@users.noreply.github.com> 1653031757 -0700\ncommitter GitHub <noreply@github.com> 1653031757 -0700\n\nMaking BridgeBuilderModel compatible with newer versions of PTL (#132)\n\n"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ef031d0d8c6dee405e63ca28050609609e1185b8",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/ef031d0d8c6dee405e63ca28050609609e1185b8",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/ef031d0d8c6dee405e63ca28050609609e1185b8/comments",
+    "author": {
+      "login": "arvindthiagarajan",
+      "id": 46770457,
+      "node_id": "MDQ6VXNlcjQ2NzcwNDU3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46770457?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/arvindthiagarajan",
+      "html_url": "https://github.com/arvindthiagarajan",
+      "followers_url": "https://api.github.com/users/arvindthiagarajan/followers",
+      "following_url": "https://api.github.com/users/arvindthiagarajan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/arvindthiagarajan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/arvindthiagarajan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/arvindthiagarajan/subscriptions",
+      "organizations_url": "https://api.github.com/users/arvindthiagarajan/orgs",
+      "repos_url": "https://api.github.com/users/arvindthiagarajan/repos",
+      "events_url": "https://api.github.com/users/arvindthiagarajan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/arvindthiagarajan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5"
+      }
+    ]
+  },
+  {
+    "sha": "5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5",
+    "node_id": "C_kwDOEfTkwtoAKDVkNmU0Yzg0NjBlODVlYmNkMDE3ZTVmNTBkOTlmMGM4NTEyMGRjZjU",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-05-15T07:10:14Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-05-15T07:10:14Z"
+      },
+      "message": "Update hook-run-tests.yaml\n\ngym-bridges now has requirements to install as well.",
+      "tree": {
+        "sha": "3472718ffbf650cea3972336087bd001c49ef577",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/3472718ffbf650cea3972336087bd001c49ef577"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJigKdWCRBK7hj4Ov3rIwAAUj8IAEh3zkZN5Gx9+QLFG7pe5fUD\ncZaEz0xjtnHD0Bo4rUW+quWzBusA1lfUfDbD/hjZhDd5VwoI5Vf1GXPZoGU1JlO1\nFHFxxK0r3MnjG1PtMQHe8Y4IJITcsko9q4+IAYWWb4UAiACSJNBQURINZTAcryhY\notpd5os2CeRsa77rItjq+8QL14Vdhm+vSMs63+kQ4RFy7Su230eW+/uD5UsISMRu\n/MYTGHogNX2JeUttnMgAbLSJFpg31If7vB3twAdE8sMa2aCLb+v5GeDSg5wc+uMH\n2pf+yVn2Nfyl8ieqmFk7yKFcmLxhRnqFB1k5KIN8361D1ePw+0IvlY3cYBmBSto=\n=ikSf\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 3472718ffbf650cea3972336087bd001c49ef577\nparent e38bc87fc269297aa266164f635140a9cd0dd163\nauthor ldoshi <lyric@mit.edu> 1652598614 -0700\ncommitter GitHub <noreply@github.com> 1652598614 -0700\n\nUpdate hook-run-tests.yaml\n\ngym-bridges now has requirements to install as well."
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/5d6e4c8460e85ebcd017e5f50d99f0c85120dcf5/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e38bc87fc269297aa266164f635140a9cd0dd163",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e38bc87fc269297aa266164f635140a9cd0dd163",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e38bc87fc269297aa266164f635140a9cd0dd163"
+      }
+    ]
+  },
+  {
+    "sha": "e38bc87fc269297aa266164f635140a9cd0dd163",
+    "node_id": "C_kwDOEfTkwtoAKGUzOGJjODdmYzI2OTI5N2FhMjY2MTY0ZjYzNTE0MGE5Y2QwZGQxNjM",
+    "commit": {
+      "author": {
+        "name": "Chenxia Liu",
+        "email": "1082253+liuche@users.noreply.github.com",
+        "date": "2022-03-25T01:02:33Z"
+      },
+      "committer": {
+        "name": "liuche",
+        "email": "1082253+liuche@users.noreply.github.com",
+        "date": "2022-04-04T16:03:37Z"
+      },
+      "message": "Update README with dev_requirements.txt and also run `black`",
+      "tree": {
+        "sha": "6a72ca59acfe8e24026cf4b73fb6d14d7b623d99",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/6a72ca59acfe8e24026cf4b73fb6d14d7b623d99"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/e38bc87fc269297aa266164f635140a9cd0dd163",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e38bc87fc269297aa266164f635140a9cd0dd163",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/e38bc87fc269297aa266164f635140a9cd0dd163",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/e38bc87fc269297aa266164f635140a9cd0dd163/comments",
+    "author": {
+      "login": "liuche",
+      "id": 1082253,
+      "node_id": "MDQ6VXNlcjEwODIyNTM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1082253?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/liuche",
+      "html_url": "https://github.com/liuche",
+      "followers_url": "https://api.github.com/users/liuche/followers",
+      "following_url": "https://api.github.com/users/liuche/following{/other_user}",
+      "gists_url": "https://api.github.com/users/liuche/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/liuche/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/liuche/subscriptions",
+      "organizations_url": "https://api.github.com/users/liuche/orgs",
+      "repos_url": "https://api.github.com/users/liuche/repos",
+      "events_url": "https://api.github.com/users/liuche/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/liuche/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "liuche",
+      "id": 1082253,
+      "node_id": "MDQ6VXNlcjEwODIyNTM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1082253?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/liuche",
+      "html_url": "https://github.com/liuche",
+      "followers_url": "https://api.github.com/users/liuche/followers",
+      "following_url": "https://api.github.com/users/liuche/following{/other_user}",
+      "gists_url": "https://api.github.com/users/liuche/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/liuche/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/liuche/subscriptions",
+      "organizations_url": "https://api.github.com/users/liuche/orgs",
+      "repos_url": "https://api.github.com/users/liuche/repos",
+      "events_url": "https://api.github.com/users/liuche/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/liuche/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8cc1cd77d579a0d7995a70c64b30baf908e57871",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/8cc1cd77d579a0d7995a70c64b30baf908e57871",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/8cc1cd77d579a0d7995a70c64b30baf908e57871"
+      }
+    ]
+  },
+  {
+    "sha": "8cc1cd77d579a0d7995a70c64b30baf908e57871",
+    "node_id": "C_kwDOEfTkwtoAKDhjYzFjZDc3ZDU3OWEwZDc5OTVhNzBjNjRiMzBiYWY5MDhlNTc4NzE",
+    "commit": {
+      "author": {
+        "name": "ldoshi",
+        "email": "lyric@mit.edu",
+        "date": "2022-04-01T14:39:24Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-04-01T14:39:24Z"
+      },
+      "message": "Add pytpe to CI (#124)\n\n* pytype.\n\n* pytype.\n\n* pytype.\n\n* pytype.\n\n* pytype.\n\n* Fix type iss.e",
+      "tree": {
+        "sha": "33b54ea8916d625e1bcf43e6ff7bd7f7cd616ea2",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/trees/33b54ea8916d625e1bcf43e6ff7bd7f7cd616ea2"
+      },
+      "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/git/commits/8cc1cd77d579a0d7995a70c64b30baf908e57871",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiRw6cCRBK7hj4Ov3rIwAAse8IAD/ClIzVyIsESNp/xiy3Gs3M\nRWS5aPICiT1uTyKePPtol8iEGQs50U/twV8tK2whdx8GtnoJv4HbJ+g4p4Z34rbk\nAl0ATG53y/vQKeJqaf2Y3O0a9ZuWUdMkn2jd+whmmikVZGu5mWurl51EIXxGcqn2\nt8ettw8jyRFyarKPmupqfI2fcLwdSx8/AAo7Jmzrti6wjBuju+DfkO+xb53aSoMp\nrw4ly54//teVEXnpeQcEIB1J7AMjvAUAh3DfDpZ2YsPjpAOu/yNcAUKh0FRPVdor\ngX5XpA+2KbWLy9Ehw1R4T1SNetUFkTDzy/emsGccTwhF2gUaFoqOiA1C4D3mrtw=\n=x/W/\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 33b54ea8916d625e1bcf43e6ff7bd7f7cd616ea2\nparent 28c8684b9a25249795a2fa80f79457c0d1cf1bf3\nauthor ldoshi <lyric@mit.edu> 1648823964 -0700\ncommitter GitHub <noreply@github.com> 1648823964 -0700\n\nAdd pytpe to CI (#124)\n\n* pytype.\n\n* pytype.\n\n* pytype.\n\n* pytype.\n\n* pytype.\n\n* Fix type iss.e"
+      }
+    },
+    "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/8cc1cd77d579a0d7995a70c64b30baf908e57871",
+    "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/8cc1cd77d579a0d7995a70c64b30baf908e57871",
+    "comments_url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/8cc1cd77d579a0d7995a70c64b30baf908e57871/comments",
+    "author": {
+      "login": "ldoshi",
+      "id": 2661144,
+      "node_id": "MDQ6VXNlcjI2NjExNDQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2661144?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ldoshi",
+      "html_url": "https://github.com/ldoshi",
+      "followers_url": "https://api.github.com/users/ldoshi/followers",
+      "following_url": "https://api.github.com/users/ldoshi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ldoshi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ldoshi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ldoshi/subscriptions",
+      "organizations_url": "https://api.github.com/users/ldoshi/orgs",
+      "repos_url": "https://api.github.com/users/ldoshi/repos",
+      "events_url": "https://api.github.com/users/ldoshi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ldoshi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "28c8684b9a25249795a2fa80f79457c0d1cf1bf3",
+        "url": "https://api.github.com/repos/ldoshi/rome-wasnt-built-in-a-day/commits/28c8684b9a25249795a2fa80f79457c0d1cf1bf3",
+        "html_url": "https://github.com/ldoshi/rome-wasnt-built-in-a-day/commit/28c8684b9a25249795a2fa80f79457c0d1cf1bf3"
+      }
+    ]
+  }
+]
