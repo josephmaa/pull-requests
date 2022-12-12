@@ -3,6 +3,7 @@ import MySQLdb
 # import tensorflow
 import pandas as pd
 import matplotlib.pyplot as plt
+from keys import user, passwd, database
 
 
 def get_schema(cursor, table: str):
@@ -32,7 +33,6 @@ def plot_hist(df: pd.DataFrame, column: str, title: str):
     fig, ax = plt.subplots()
     vals = df[column].astype(float)
     vals = vals.fillna(0)
-    print(vals)
     ax.hist(vals, alpha=0.5)
     ax.set_alpha(0.5)
     fig.suptitle(title)
@@ -45,9 +45,9 @@ def main():
     mydb = MySQLdb.connect(
         host="sansa.cs.uoregon.edu",
         port=3331,
-        user="ideas_user",
-        passwd="cabbage",
-        database="ideas_db",
+        user=user,
+        passwd=passwd,
+        database=database,
     )
     mycursor = mydb.cursor()
 
