@@ -1,98 +1,81 @@
+import MySQLdb
+
+# import tensorflow
 import pandas as pd
 import matplotlib.pyplot as plt
-from source.query import Query, Database
-import os
+from keys import user, passwd, database
 
 
-def plot_timeseries(
-    project_id_dataframe: pd.DataFrame, column: str, title: str, output: str = ""
-):
+def get_schema(cursor, table: str):
+    query = f"DESCRIBE {table}"
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    for row in rows:
+        print(row)
+
+
+def get_query(query: str, cursor):
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    for row in rows:
+        print(row)
+
+
+def plot_timeseries(df: pd.DataFrame, column: str, title: str):
     fig, ax = plt.subplots()
-    ax.plot_date(
-        project_id_dataframe[column],
-        y=[1] * len(project_id_dataframe[column]),
-        alpha=0.5,
-        ms=10,
-    )
+    ax.plot_date(df[column], y=[1] * len(df[column]), alpha=0.5, ms=10)
     ax.set_alpha(0.5)
     fig.suptitle(title)
-    if not output:
-        plt.show()
-    else:
-        plt.savefig(fname=output)
+    plt.show()
 
 
-def plot_hist(
-    project_id_dataframe: pd.DataFrame, column: str, title: str, output: str = ""
-):
+def plot_hist(df: pd.DataFrame, column: str, title: str):
     fig, ax = plt.subplots()
-    vals = project_id_dataframe[column].astype(float)
+    vals = df[column].astype(float)
     vals = vals.fillna(0)
     ax.hist(vals, alpha=0.5)
     ax.set_alpha(0.5)
     fig.suptitle(title)
-    # TODO: Make it so plot histogram function does not modify state by changing directory state.
-    if not output:
-        plt.show()
-    else:
-        plt.savefig(fname=output)
+    plt.show()
 
 
 def main():
     pd.set_option("display.max_rows", None, "display.max_columns", None)
 
-    database = Database(name="sansa")
-    schema = database.get_schema(table="pr")
-    for row in schema:
-        print(row)
+    mydb = MySQLdb.connect(
+        host="sansa.cs.uoregon.edu",
+        port=3331,
+        user=user,
+        passwd=passwd,
+        database=database,
+    )
+    mycursor = mydb.cursor()
 
-    query = Query(query_string="select distinct project_id from pr")
-    query_result = database.execute_query(query=query)
-    min_project_id, max_project_id = float("inf"), -1
-    for row in query_result:
-        project_id = row[0]
-        min_project_id = min(project_id, min_project_id)
-        max_project_id = max(project_id, max_project_id)
+    get_schema(mycursor, "pr")
+
+    # get_query("show tables", cursor=mycursor)
+    # get_query(
+    #     query="select count(*) from pr where project_id=30", cursor=mycursor
+    # )  # 30=anl_test_repo
+    # get_query(query="select * from project", cursor=mycursor)
+    # get_query(query="select * from pr where project_id=30", cursor=mycursor)
 
     print("All queries completed")
 
-    current_directory = os.getcwd()
+    df = pd.read_sql("select * from pr where project_id=30", mydb)
+    # plot_timeseries(df=df, column="updated_at", title="Distribution of pull requests for project id 30.)
 
-    # Make output folders.
-    os.makedirs("timeseries", exist_ok=True)
-    os.makedirs("histogram", exist_ok=True)
+    df["updated_at_shift"] = df["updated_at"].shift(-1)
+    df["time_difference"] = df["updated_at_shift"] - df["updated_at"]
+    df["time_difference_hourly"] = df["time_difference"] / pd.Timedelta(hours=1)
 
-    for current_project_id in range(min_project_id, max_project_id):
-        # Initialize the dataframe with pandas.
-        project_id_dataframe = pd.read_sql(
-            f"select * from pr where project_id={current_project_id}",
-            Database("sansa").get_database(),
-        )
-        plot_timeseries(
-            project_id_dataframe=project_id_dataframe,
-            column="updated_at",
-            title=f"Distribution of pull requests for project id: {current_project_id}.",
-            output=os.path.join("timeseries", str(current_project_id)),
-        )
+    print(df["time_difference_hourly"])
 
-        # TODO: Move these dataframe calculations into a custom project id dataframe object.
-        project_id_dataframe["updated_at_shift"] = project_id_dataframe[
-            "updated_at"
-        ].shift(-1)
-        project_id_dataframe["time_difference"] = (
-            project_id_dataframe["updated_at_shift"]
-            - project_id_dataframe["updated_at"]
-        )
-        project_id_dataframe["time_difference_hourly"] = project_id_dataframe[
-            "time_difference"
-        ] / pd.Timedelta(hours=1)
-
-        plot_hist(
-            project_id_dataframe=project_id_dataframe,
-            column="time_difference_hourly",
-            title=f"Time difference on updated at columns for project_id: {current_project_id}.",
-            output=os.path.join("histogram", str(current_project_id)),
-        )
+    plot_hist(
+        df=df,
+        column="time_difference_hourly",
+        title="Time difference on updated at columns.",
+    )
 
 
 if __name__ == "__main__":
